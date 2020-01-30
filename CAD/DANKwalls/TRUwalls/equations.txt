@@ -1,0 +1,4 @@
+﻿"sheet"= 3.18mm
+"screwD"= 2.94mm
+"tabW"= 20mm
+"nut2"= 6.5mm
